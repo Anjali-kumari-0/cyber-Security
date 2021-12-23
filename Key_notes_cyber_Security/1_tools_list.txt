@@ -1,0 +1,96 @@
+Kali Linux – 
+Burp Suite. ...
+SQLMap. ...
+ZenMAP. ...
+Nmap.
+
+
+Web application vulnerability assessment tools
+1.Nikto
+2. Skipfish
+3. Wapiti
+4. OWASP-ZAP
+5. XSSPY
+6. W3af
+
+
+Vulnerability assessment tools for network infrastructure testing
+1. OpenVAS
+2. Fierce
+3. Metasploit framework
+4. Nmap
+5. Netcat
+6. Unicornscan
+
+
+
+Vulnerability assessment tools for mobile applications
+1. App-Ray
+2. Codified Security
+3. MSFVenom
+4. Dexcalibur
+5. StaCoAn
+6. Runtime Mobile Security:
+
+
+
+* Top 10 Kali Linux Tools For Hacking
+1.  Nmap
+2. Burp Suite
+3. Wireshark
+4. metasploit Framework
+5. aircrack-ng
+6. Netcat
+7. John the Ripper
+8. sqlmap
+9. Autopsy
+10. Social Engineering Toolkit
+
+* Top 5 Places to Practice Ethical Hacking
+1. PortSwigger’s Web Security Academy Labs
+2. HackTheBox
+3. HackThisSite:
+4. PentesterLab
+5. HellBound Hackers
+
+
+
+Proxy Tool
+1. Tor
+2. Cyber Ghost
+
+
+
+* Best Ethical Hacking Projects in 2021
+ 1. Invoker
+2. Hackdroid
+3. H4cker
+4. Packet Sniffer
+5. Capsulecorp Pentest
+6. Hrshell
+7. Lockphish
+
+* Job Opportunities
+1. Cyber Security Expert, 
+2. Cyber Security Engineer, 
+3. Software Developer, 
+4. Cybersecurity Analyst, 
+5. Application Security Engineer, 
+6. Network Security Engineer.
+
+
+* Top 6 Cyber Security Project Ideas
+1. Keylogger projects
+2. Network traffic analysis
+3. Caesar Cipher Decoder
+4. Antivirus
+5. Build your own encryption software
+6. Bug Bounties and Hackathons
+
+Top 6 Cybersecurity Projects Ideas for Beginners
+1.  Text Encryption Using Various Algorithms
+2. Keylogger Software
+3. Image Encryption
+4.  Network Traffic Analyzer
+5. Password Analyzer
+6. Graphical Password Authentication
