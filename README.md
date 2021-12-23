@@ -1,7 +1,9 @@
 # cyber-Security
 # Minor Project
-Project Name: Cyber Security Minor September  
-• Project Description:  
+
+**Project Name: Cyber Security Minor September 
+
+*Project Description:  
 
 1• Perform Foot printing on Amazon Website and gather information about website by using online Websites (Whois / netcraft / Shodan / dnsdumpster., etc.) as much as possible and write report on gathered info along with screenshots 
 
@@ -20,9 +22,9 @@ Project Name: Cyber Security Minor September
 # Major Project
 
 • Project Name:
-Cyber Security September Major Project
+**Cyber Security September Major Project
 
-• Project Description:
+*Project Description:
 
 1. Perform Scanning Module by using Nmap tool (Download from Internet) and scan kalilinux and Windows 7 machine and find the open/closed ports and services running on machine Hacker Machine : Windows 10
 Victim machine : Kali Linux and Windows 7
