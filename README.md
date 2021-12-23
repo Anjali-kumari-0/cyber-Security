@@ -1,4 +1,5 @@
 # cyber-Security
+# Minor Project
 Project Name: Cyber Security Minor September  
 • Project Description:  
 
@@ -16,7 +17,7 @@ Project Name: Cyber Security Minor September
 
 7• Write article on how to change the IP address by using proxies and mention the differences between proxies and VPN
 
-Major Project
+# Major Project
 
 • Project Name:
 Cyber Security September Major Project
